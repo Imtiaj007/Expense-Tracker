@@ -1,0 +1,2 @@
+13 Nov 25,Income,5000.0
+13 Nov 25,Transport,100.0
