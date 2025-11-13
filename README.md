@@ -4,7 +4,7 @@ A **colorful and user-friendly Expense Tracker** built with **JavaFX** to help y
 
 ---
 
-## 🎯 Features
+##  Features
 - ✅ Add, edit, and delete expenses.
 - ✅ Categorize expenses (Food, Transport, Entertainment, etc.).
 - ✅ View expenses in a **color-coded table**.
@@ -13,22 +13,83 @@ A **colorful and user-friendly Expense Tracker** built with **JavaFX** to help y
 
 ---
 
-## 🖼 Screenshots
+##  Screenshots
 **Main Dashboard:**  
-![Dashboard]"(C:\Users\Mehedi Hasan Bappy\OneDrive\Pictures\Screenshots\Screenshot 2025-11-13 224418.png")
+![Dashboard]"(link-
 
-**Add Expense Form:**  
-![Add Expense](link-to-your-screenshot-2)
 
-**Expense Table:**  
-![Table](link-to-your-screenshot-3)
-
-> Replace the links above with your actual screenshots.
-
----
-
-## ⚡ Installation
+##  Installation
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/imtiaj007/expense-tracker.git
+
+2. Open the project in your preferred Java IDE (IntelliJ IDEA, Eclipse, NetBeans).
+
+
+3. Set up JavaFX
+Make sure JavaFX is installed and configured in your IDE.
+
+
+4. Run the app
+Launch Main.java to start tracking your expenses.
+
+
+
+
+---
+
+📝 How to Use
+
+1. Launch the application.
+
+
+2. Enter expense details:
+
+Amount
+
+Category
+
+Date
+
+Description
+
+
+
+3. Click Add to save your expense.
+
+
+4. View all expenses in the table, edit or delete as needed.
+
+
+5. Enjoy a colorful and organized view of your spending!
+
+
+
+
+---
+
+🛠 Tech Stack
+
+Java
+
+JavaFX
+
+Scene Builder (optional, for GUI design)
+
+
+
+---
+
+🚀 Future Improvements
+
+Export expenses to CSV or Excel.
+
+Add charts and graphs for visual analysis.
+
+Monthly and yearly summaries.
+
+Save data to a database for persistence.
+
+
+
+---
