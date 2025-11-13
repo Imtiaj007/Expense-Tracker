@@ -98,7 +98,7 @@ public class ExpenseTracker extends Application {
         updateTotal();
 
         Scene scene = new Scene(root, 650, 450);
-        stage.setTitle("💰 Simple Expense Tracker");
+        stage.setTitle(" Simple Expense Tracker");
         stage.setScene(scene);
         stage.show();
     }
@@ -143,22 +143,8 @@ public class ExpenseTracker extends Application {
             showAlert("Error loading expenses!");
         }
     }
-
-    /*public void start(Stage stage) {
-
-        amountField.setStyle("-fx-background-color: white; -fx-border-color: #0288d1; -fx-border-radius: 5;");
-        table.setStyle(
-                "-fx-background-color: white;" +
-                        "-fx-border-color: #0097a7;" +
-                        "-fx-border-radius: 5;" +
-                        "-fx-font-size: 14px;"
-        );
-        totalLabel.setStyle("-fx-font-size: 16px; -fx-font-weight: bold; -fx-text-fill: #004d40;");
-        categoryBox.setStyle("-fx-background-color: white; -fx-border-color: #0288d1; -fx-border-radius: 5;");
-    }
-*/
-
     public static void main(String[] args) {
         launch(args);
     }
+
 }
