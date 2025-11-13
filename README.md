@@ -15,7 +15,7 @@ A **colorful and user-friendly Expense Tracker** built with **JavaFX** to help y
 
 ##  Screenshots
 **Main Dashboard:**  
-![Dashboard]"(link-
+<img width="1919" height="696" alt="Image" src="https://github.com/user-attachments/assets/4e877f42-8e9b-43d8-bca7-77ee9902aa04" />
 
 
 ##  Installation
