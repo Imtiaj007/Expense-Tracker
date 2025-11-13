@@ -23,6 +23,8 @@ A **colorful and user-friendly Expense Tracker** built with **JavaFX** to help y
 1. **Clone the repository**  
 ```bash
 
+https://github.com/Imtiaj007/Expense-Tracker.git
+
 2. Open the project in your preferred Java IDE (IntelliJ IDEA, Eclipse, NetBeans).
 
 
